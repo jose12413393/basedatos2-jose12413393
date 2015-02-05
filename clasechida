@@ -36,3 +36,4 @@ guardar_dance(valor, 'manuel');
 dbms_output.put_line('se inswerto con exito' || valor);
 end;
 /
+select * from DANCE;
